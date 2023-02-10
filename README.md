@@ -4,6 +4,8 @@
 
 🛠️ I really like to use and research about cutting-edge technologies.
 
+📝 Worked closely with Project Managers to help them organazing and estimating tasks
+
 ❤️ Passionated about learning and discussing tech stuff.
 
 👨‍💻 Currently working at [LoopStudio](https://loopstudio.dev)
