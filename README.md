@@ -15,7 +15,7 @@
 During my +5 years of experiencie I've worked with different technologies and tools in order to build end to end solutions. The following are the most important ones:
 
 #### Backend
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" /> Node.js (NestJS as the main framework)
+- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" /> Node.js
 
 #### Databases
 - <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg" /> MongoDB
@@ -49,18 +49,3 @@ During my +5 years of experiencie I've worked with different technologies and to
 📬 [LinkedIn](https://www.linkedin.com/in/renatocargnelutti)
 
 📩 [Email](mailto:renato.cargnelutti8@gmail.com)
-
-<!--
-**renacargnelutti/renacargnelutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
