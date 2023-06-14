@@ -12,7 +12,7 @@
 
 
 ## Technologies and Tools
-During my +5 years of experiencie I've worked with different technologies and tools in order to build end to end solutions. The following are the most important ones:
+During my +6 years of experiencie I've worked with different technologies and tools in order to build end to end solutions. The following are the most important ones:
 
 #### Backend
 - <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" /> Node.js
