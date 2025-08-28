@@ -1,52 +1,66 @@
-## Hi there 👋 I'm Renato!
+# Renato Cargnelutti
+**Tech Lead | Backend Software Engineer**  
+📍 🇦🇷 Argentina | 🌐 [LinkedIn](https://www.linkedin.com/in/renatocargnelutti) | ✉️ [renato.cargnelutti8@gmail.com](mailto:renato.cargnelutti8@gmail.com)
 
-💻 Fullstack Software Engineer with more focus on the backend.
+## About Me
+Software Engineer with **8+ years** of experience building scalable, end-to-end solutions across diverse industries including **fintech, gaming, telecommunications, and healthcare**. Currently serving as **Tech Lead** at [LoopStudio](https://loopstudio.dev), where I lead backend development initiatives and mentor engineering teams.
 
-🛠️ I really like to use and research about cutting-edge technologies.
+My expertise spans from architecting backend systems to implementing data engineering pipelines, with a proven track record in **team leadership** and **project management**. I'm passionate about leveraging cutting-edge technologies to solve complex technical challenges and drive business growth.
 
-📝 Worked closely with Project Managers to help them organazing and estimating tasks
+### Key Accomplishments
+- **Team Leadership**: Led processes and mentored other software engineers
+- **Project Management**: Collaborated closely with PMs on task estimation, sprint planning, and delivery
+- **Full-Stack Expertise**: Delivered complete solutions from database design to frontend implementation
+- **Industry Versatility**: Successfully delivered projects across fintech, gaming, healthcare, telecommunications, and AgTech domains
 
-❤️ Passionated about learning and discussing tech stuff.
+## Technical Expertise
 
-👨‍💻 Currently working at [LoopStudio](https://loopstudio.dev)
+### Backend, Frontend & Infrastructure
+```
+Languages:        Node.js (TypeScript), Python, Go
+Databases:        MongoDB, PostgreSQL, Redis
+Cloud:            AWS, Kubernetes, Terraform
+Data:             Airflow, DBT, Snowflake
+Architecture:     Microservices, RESTful APIs, System Design
+Frameworks/Tools: React.js, React Native, Redux
+```
 
+### AI & Machine Learning
+```
+AI Coding Tools:  Claude Code, Cursor, VS Code (Agent Mode)
+AI Development:   LangChain, LangGraph
+MCP Integration:  MCP clients, Model Context Protocol implementations
+Vector Databases: MongoDB Vector Search
+Agent Frameworks: Multi-agent systems, RAG implementations
+LLM Integration:  OpenAI API, Anthropic Claude API
+```
 
-## Technologies and Tools
-During my +6 years of experiencie I've worked with different technologies and tools in order to build end to end solutions. The following are the most important ones:
+### DevOps & Tools
+```
+Containerization:  Docker
+CI/CD:             GitHub Actions, Jenkins
+Tools:             Git Flow, GitHub, Bitbucket
+Monitoring:        Grafana
+```
 
-#### Backend
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" /> Node.js
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/g/80/golang-gopher.svg"> Go
+### Testing & Quality
+```
+Testing:      Jest, Mocha, Supertest, PyTest, JUnit
+```
 
-#### Databases
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg" /> MongoDB
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/p/93/postgresql.svg" /> PostgreSQL
+## Current Focus
+🚀 **Currently:** Tech Lead at [LoopStudio](https://loopstudio.dev) - Building scalable backend solutions for fintech platforms
 
-#### Frontend
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/r/63/react.svg" /> React.js
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/r/18/react-native.svg" /> React Native
+🔬 **Exploring:** System architecture, GenAI tools/frameworks, and team leadership methodologies
 
-#### Extras
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/t/14/typescript.svg" /> Typescript
+🎯 **Interests:** System architecture, AI technologies, performance optimization, and mentoring engineering teams
 
-#### Infrastructure/System design
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/d/41/docker.svg" /> Docker
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/k/39/kubernets.svg" /> Kubernetes
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/a/33/amazon-web-services.svg" /> AWS
-- Microservices
+## AI Projects & Innovation
 
-#### Web3
-- <img height=20 width=90 src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" />
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/s/73/solidity.svg" /> Solidity
+⚡ **AI-Powered Development** - Leveraging Claude Code and Cursor's agent mode for accelerated application development and code generation
 
-#### Testing
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/j/58/jest.svg" /> Jest
-- <img height=20 width=20 src="https://cdn.cdnlogo.com/logos/m/25/mocha.svg" /> Mocha
-- Supertest
+🔌 **MCP Integration** - Developing Model Context Protocol clients for enhanced AI tool interoperability and workflow automation
 
+🤖 **AI Agent Development** - Building intelligent agents using LangChain and LangGraph for automated workflows and decision-making
 
-## How to reach me
-
-📬 [LinkedIn](https://www.linkedin.com/in/renatocargnelutti)
-
-📩 [Email](mailto:renato.cargnelutti8@gmail.com)
+🧠 **RAG Systems** - Implementing Retrieval-Augmented Generation systems with vector databases for enhanced AI responses
